@@ -1,7 +1,11 @@
 This is example file in mastr
 
-This is edited in branch1
+<<<<<<< HEAD
+
 
 
 This edited in master
 a new line added
+=======
+This is edited in branch1
+>>>>>>> branch1
